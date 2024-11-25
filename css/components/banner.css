@@ -1,0 +1,41 @@
+.banner {
+	background-image: url(../../images/background.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.banner h1 {
+	font-size: 60px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight:  lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
+
+
+.ending{
+	background-image: url(../../images/ending.jpg);
+	color: black;
+	padding: 70px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.ending p{
+	font-size: 15px;
+	opacity: 0.8;
+	margin-bottom: 10px;
+}
+
+.ending h2{
+	font-weight: bold;
+	margin-bottom: 15px;
+	font-size: 25px;
+
+}
